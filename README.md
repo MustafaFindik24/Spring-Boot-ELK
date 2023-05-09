@@ -1,2 +1,2 @@
-# Spring-Boot-ELK
+# Spring Boot ELK
 ELK Application using Spring Boot Project
